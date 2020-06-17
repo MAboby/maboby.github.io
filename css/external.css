@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Hello Brilliant";
+    src: url(fonts/HelloBrilliant.ttf);
+    font-weight: 400;
+}
+
+body {
+background-image: url(/img/wallp01.jpg);
+font-family: "Hello Brilliant",sans-serif; 
+text-align: center;
+}
+h2 {
+    color: rgba(166, 255, 0, 0.767);
+    font-size: 40px;
+}
+p {
+    color: rgb(223, 4, 4);font-size: 25px;
+}
